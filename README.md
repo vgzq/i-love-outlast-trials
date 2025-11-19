@@ -18,5 +18,7 @@ Usage:
 
 4. select whatever option you wanna use :3
 
+Note, I ran the exe through VirusTotal myself and it got 7 detections. This is all false positives, all the script does is modify the engine.ini and GameUserSettings.ini files. If you're scared to run it then don't run it. simple.
+
 checkout my twitter
 https://twitter.com/veegzay
