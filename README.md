@@ -1,6 +1,6 @@
 Features:
 
-Apply my config that reduces graphical effects and improve FPS
+Applies my config that reduces graphical effects and improve FPS
 
 Set custom resolution and frame rate cap
 
