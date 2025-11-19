@@ -17,3 +17,6 @@ Usage:
 3. Optionally create a backup
 
 4. select whatever option you wanna use :3
+
+checkout my twitter
+https://twitter.com/veegzay
